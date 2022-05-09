@@ -95,10 +95,10 @@ footer{
     width: 100px;
 }
 
-.icon:hover{
+/* .icon:hover{
     background: var(--clr-rojo-suave);
     color: var(--clr-rojo-suave);
-}
+} */
 
 @media screen and (max-width: 480px){
     .caja-num{
